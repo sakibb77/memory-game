@@ -148,4 +148,5 @@ function playAgain() {
   gameBox.innerHTML = "";
   moveCount = 0;
   move.textContent = moveCount;
+  fourLevel();
 }
